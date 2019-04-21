@@ -1,0 +1,9 @@
+Origin: SLIDERzz REPO
+Label: SLIDERzz REPO
+Suite: Stable
+Version: 1.0
+Codename: SLIDERzz
+Architectures: iphoneos-arm
+Components: main
+Description: A cydia tweak where you can use cool themes created by SLIDERzz.
+MD5Sum: 
